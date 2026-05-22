@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cefZcdWAiIRu+mvUZI5JppYwCWIn+aZoiruqJb1YK1M=",
+  "Source": "ProjectTaskManagementAPI",
+  "BasePath": "_content/ProjectTaskManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
